@@ -1,3 +1,5 @@
+// this is the starting exmaple for p5.js
+
 function setup() {
   createCanvas(400, 400);
 }
